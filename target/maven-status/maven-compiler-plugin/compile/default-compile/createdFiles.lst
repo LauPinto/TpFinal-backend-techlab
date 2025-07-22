@@ -1,0 +1,11 @@
+com\talentotech\tpfinal\repositories\PedidoRepository.class
+com\talentotech\tpfinal\services\ProductoService.class
+com\talentotech\tpfinal\ProyectoFinalApplication.class
+com\talentotech\tpfinal\services\PedidoService.class
+com\talentotech\tpfinal\dtos\PedidoRequest.class
+com\talentotech\tpfinal\controllers\PedidoController.class
+com\talentotech\tpfinal\entities\Producto.class
+com\talentotech\tpfinal\entities\LineaPedido.class
+com\talentotech\tpfinal\controllers\ProductoController.class
+com\talentotech\tpfinal\repositories\ProductoRepository.class
+com\talentotech\tpfinal\entities\Pedido.class

@@ -1,0 +1,6 @@
+INSERT INTO producto (nombre, descripcion, precio, categoria, imagen, stock) VALUES
+('Espada de Fuego', 'Espada mágica que inflige daño de fuego', 15000.0, 'Arma', 'https://cpng.pikpng.com/pngl/s/313-3138982_espada-cool-sword-pixel-art-clipart.png', 10),
+('Armadura de Hierro', 'Protege contra ataques físicos', 1200.0, 'Armadura', 'https://static.vecteezy.com/system/resources/thumbnails/042/670/681/small/pixel-art-illustration-war-armor-pixelated-knight-armor-medieval-knight-war-armor-pixelated-for-the-pixel-art-game-and-icon-for-website-and-game-old-school-retro-vector.jpg', 5),
+('Poción de Vida', 'Restaura 50 puntos de salud', 300.0, 'Poción', 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITeueTshjyJzCYIKix2exCWnlILXIwU4rPr7xdsF5cTx4ugsoy6yle51i9-xlxAmGk_M&usqp=CAU', 25),
+('Báculo de Hielo', 'Dispara proyectiles congelantes', 18000.0, 'Arma', 'https://img.freepik.com/vector-premium/ilustracion-pixel-art-baston-magico-baston-magico-pixelado-icono-baston-magico-bruja-mago_1038602-589.jpg', 7),
+('Capa de Invisibilidad', 'Permite moverse sin ser visto', 20000.0, 'Ropa', 'https://img.freepik.com/vector-premium/capa-ilustracion-arte-pixeles-capa-magica-pixelada-icono-capa-mago-magico-pixelado_1038602-537.jpg', 3);
